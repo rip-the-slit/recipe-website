@@ -4,24 +4,29 @@
 
 a {
     position: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bolder;
+    color: black;
+    text-decoration: none;
 }
 
 #top-left {
-    top: 5%;
-    left: 5%;
+    top: 4%;
+    left: 4%;
 }
 
 #top-right {
-    top: 5%;
-    right: 5%;
+    top: 4%;
+    right: 4%;
 }
 
 #bottom-left {
-    bottom: 5%;
-    left: 5%;
+    bottom: 4%;
+    left: 4%;
 }
 
 #bottom-right {
-    bottom: 5%;
-    right: 5%;
+    bottom: 4%;
+    right: 4%;
 }

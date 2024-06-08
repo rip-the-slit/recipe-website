@@ -28,7 +28,8 @@ img {
     height: 300px;
 }
 
-li {
+ul,
+ol {
     text-align: left;
-    margin-left: 3%;
+    padding: 4.5%;
 }
